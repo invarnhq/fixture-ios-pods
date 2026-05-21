@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Xcode per-user state — never committed
+xcuserdata/
+
+# CocoaPods installed dependencies — Podfile.lock pins versions, Pods/ is regenerated at build time
+Pods/
+
+# Build output
+DerivedData/
+.build/
+build/
+
+# Logs
+*.log
